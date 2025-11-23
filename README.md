@@ -5,6 +5,19 @@ It extracts *exported components*, *deep links*, and *dangerous configurations*,
 
 # Screenshots
 ## CLI
+![CLI 1](https://raw.githubusercontent.com/lautarovculic/androidBeautifest/main/images/cli1.png)
+
+![CLI 2](https://raw.githubusercontent.com/lautarovculic/androidBeautifest/main/images/cli2.png)
+
+![CLI 3](https://raw.githubusercontent.com/lautarovculic/androidBeautifest/main/images/cli3.png)
+
+---
+
+## Web UI
+![GUI 1](https://raw.githubusercontent.com/lautarovculic/androidBeautifest/main/images/gui1.png)
+...
+
+## CLI
 
 ![CLI 1](images/cli1.png)
 
