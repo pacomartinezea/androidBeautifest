@@ -96,9 +96,8 @@ class AndroidBeautifest:
         # common analysis logic for manifest root
         sep = "=" * 80
         self.log(f"\n{sep}", Fore.WHITE)
-        self.log("Android Manifest Analyzer", Fore.WHITE)
-        self.log("https://lautarovculic.com", Fore.WHITE)
-        self.log("Lautaro Villarreal Culic'", Fore.WHITE)
+        self.log("AndroidBeautifest - Android Manifest Analyzer", Fore.WHITE)
+        self.log("https://lautarovculic.com - Lautaro Villarreal Culic'", Fore.WHITE)
         self.log(sep, Fore.WHITE)
         self.log("", Fore.WHITE)
 
