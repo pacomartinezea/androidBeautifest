@@ -5,13 +5,19 @@ It extracts *exported components*, *deep links*, and *dangerous configurations*,
 
 # Screenshots
 ## CLI
+
 ![CLI 1](images/cli1.png)
+
 ![CLI 2](images/cli2.png)
+
 ![CLI 3](images/cli3.png)
 
 ## Web UI
+
 ![GUI 1](images/gui1.png)
+
 ![GUI 2](images/gui2.png)
+
 ![GUI 3](images/gui3.png)
 
 # Features
