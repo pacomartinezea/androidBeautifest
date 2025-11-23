@@ -7,7 +7,7 @@ It extracts *exported components*, *deep links*, and *dangerous configurations*,
 ## Web UI
 ![GUI 1](https://i.imgur.com/ROZZ6cY.png)
 ## CLI
-![CLI 1](https://i.imgur.com/BUWezrL.png)
+![CLI 1](https://i.imgur.com/uC7yZin.png)
 
 # Features
 - Parses AndroidManifest.xml directly using Androguard.
